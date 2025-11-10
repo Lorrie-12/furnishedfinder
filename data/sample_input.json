@@ -1,0 +1,15 @@
+{
+  "search": {
+    "location": "New York, NY",
+    "radiusMiles": 10,
+    "minPrice": 1500,
+    "maxPrice": 4000,
+    "minBedrooms": 0,
+    "maxBedrooms": 2,
+    "checkIn": "2025-04-01",
+    "checkOut": "2025-04-30",
+    "sortBy": "priceAsc"
+  },
+  "maxListings": 50,
+  "includeHostProfile": true
+}
