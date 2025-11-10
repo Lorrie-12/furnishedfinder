@@ -1,0 +1,35 @@
+[
+  {
+    "propertyType": "Apartment",
+    "propertyTypeClass": "entireUnit",
+    "name": "1 MILE to 5 Hospitals & Schools- Cozy NYC Studio in East Harlem",
+    "listingId": "666591_1",
+    "rentAmount": {
+      "amount": "2850.00",
+      "currency": "USD"
+    },
+    "bedroomCount": 1,
+    "bathroomCount": 1,
+    "availableOnDate": "Available: Apr. 13, 2025",
+    "amenities": [
+      "airConditioning",
+      "wifi",
+      "tv",
+      "kitchen",
+      "heating"
+    ],
+    "photos": [
+      "https://staticproperties.furnishedfinder.com/666591/1/55368014-full.jpeg",
+      "https://staticproperties.furnishedfinder.com/666591/1/55368068-full.jpeg"
+    ],
+    "approxLocation": {
+      "latitude": 40.7988278,
+      "longitude": -73.9375895
+    },
+    "hostProfile": {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "+1-555-0100"
+    }
+  }
+]
