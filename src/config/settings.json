@@ -1,0 +1,15 @@
+{
+  "base_url": "https://www.furnishedfinder.com/graphql",
+  "request_timeout": 20,
+  "max_retries": 3,
+  "retry_backoff_seconds": 2,
+  "default_headers": {
+    "User-Agent": "FurnishedFinderScraper/1.0 (+https://bitbash.dev)",
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+  },
+  "proxy": {
+    "http": null,
+    "https": null
+  }
+}
